@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CODER-CHIRAG
+- 👋 Hi, I’m @KathpaliaChirags
 - 👀 I’m interested in ... Python, java
 - 🌱 I’m currently learning ... Backend using Django
 - 💞️ I’m looking to collaborate on ... Web development
